@@ -10,12 +10,12 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "05_28_H_E_R_M_I_T_1RO1QT1"
     },
     "SUDO": {
       "description": "owner number of the bot",
       "required": true,
-      "value": "null"
+      "value": "2347081414294"
     },
     "MODE": {
       "description": "mode public or private",
@@ -25,7 +25,7 @@
     "ALWAYS_ONLINE": {
       "description": "show bot number last seen as online",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered",
@@ -83,7 +83,7 @@
     "SONG_THUMBNAIL": {
       "description": "show youtube video thumbnail in song cmd",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ERROR_MESSAGE": {
       "description": "get error alert",
